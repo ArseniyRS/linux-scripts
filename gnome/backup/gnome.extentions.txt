@@ -1,0 +1,11 @@
+Applications_Menu@rmy.pobox.com
+aztaskbar@aztaskbar.gitlab.com
+blur-my-shell@aunetx
+burn-my-windows@schneegans.github.com
+clipboard-indicator@tudmotu.com
+compiz-alike-magic-lamp-effect@hermes83.github.com
+gsconnect@andyholmes.github.io
+just-perfection-desktop@just-perfection
+mediacontrols@cliffniff.github.com
+panel-corners@aunetx
+user-theme@gnome-shell-extensions.gcampax.github.com
